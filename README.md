@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
-- 💬 Ask me about **React, JavaScript HTML and CSS**
+- ⭐ Development skills **React, JavaScript HTML and CSS**
 
 - 🌱 I would like to learn about **Redux**
 
