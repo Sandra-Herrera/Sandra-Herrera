@@ -11,7 +11,7 @@
 
 - 🌱 I would like to learn about **Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sandra-Herrera](https://github.com/Sandra-Herrera)
+- 👨‍💻 All of my projects are available at [https://github.com/Sandra-Herrera?tab=repositories](https://github.com/Sandra-Herrera)
 
 - 📫 How to reach me **herreramercadosandra@gmail.com**
 
