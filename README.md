@@ -9,7 +9,7 @@
 
 - ⭐ Development skills **React, JavaScript HTML and CSS**
 
-- 🌱 I would like to learn about **Redux**
+- 🌱 I would like to learn about **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandra-Herrera](https://github.com/Sandra-Herrera)
 
